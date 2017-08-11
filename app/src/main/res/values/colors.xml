@@ -12,7 +12,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.-->
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#5E35B1</color>
+    <color name="colorAccent">#673AB7</color>
 </resources>
